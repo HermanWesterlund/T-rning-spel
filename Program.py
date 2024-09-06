@@ -5,7 +5,7 @@ datorSlag2 = + random.randint(1,6)
 blank = str (input(""))
 print (datorSlag1)
 print ("Datorns andra slag")
-blank = str (input(""))
+blank = str(input(""))
 print (datorSlag2)
 datorLiv = datorSlag2 + datorSlag1
 print ("Datorns totala liv: " +str(datorLiv))
